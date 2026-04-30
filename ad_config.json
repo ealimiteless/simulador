@@ -1,12 +1,17 @@
 {
   "ads_enabled": true,
   "ad_units": {
-    "banner": "ca-app-pub-6335103216414556/6244994358",
-    "interstitial": "ca-app-pub-6335103216414556/2085093773",
-    "native": "ca-app-pub-6335103216414556/9469923490"
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "app_open": "ca-app-pub-3940256099942544/9257395921",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917"
   },
   "logic": {
-    "interstitial_interval": 3,
-    "native_on_results": true
+    "interstitial_interval": 2,
+    "native_in_guide": true,
+    "app_open_enabled": true,
+    "rewarded_for_premium": true
   }
 }
+
