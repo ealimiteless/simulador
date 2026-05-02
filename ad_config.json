@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "ad_units": {
     "banner": "ca-app-pub-6335103216414556/6244994358",
     "interstitial": "ca-app-pub-6335103216414556/9469923490",
